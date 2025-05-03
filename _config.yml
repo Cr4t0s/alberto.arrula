@@ -1,5 +1,5 @@
 title: "Mis reflexiones"
-theme: minima        # Tema por defecto de Jekyll (sencillo)
-baseurl: "/alberto.arrula"  # ¡El nombre de tu repositorio!
+theme: cayman
+baseurl: "/alberto.arrula"
 url: "https://cr4t0s.github.io"
 permalink: /:categories/:year/:month/:day/:title.html

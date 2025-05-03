@@ -1,5 +1,4 @@
 title: "Mis reflexiones"
-theme: cayman
 baseurl: "/alberto.arrula"
 url: "https://cr4t0s.github.io"
 permalink: /:categories/:year/:month/:day/:title.html

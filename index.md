@@ -1,6 +1,8 @@
 ---
 layout: home
+title: Mis reflexiones
 ---
 # Mis reflexiones
 
-- [Configurar Sonoff Dongle Plus en Home Assistant]({% _posts/2025-05-03-Configurar-Sonoff-Dongle-Plus-en-Home-Assistant.md %})
+- [Configurar Sonoff Dongle Plus en Home Assistant]({% _post_url 2025-05-03-Configurar-Sonoff-Dongle-Plus-en-Home-Assistant.md %})
+

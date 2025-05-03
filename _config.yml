@@ -1,0 +1,4 @@
+title: "Mis reflexiones"
+theme: minima        # Tema por defecto de Jekyll (sencillo)
+plugins:
+  - jekyll-feed     # Añade RSS automático

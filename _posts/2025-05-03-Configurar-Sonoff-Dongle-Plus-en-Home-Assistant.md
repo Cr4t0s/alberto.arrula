@@ -5,6 +5,7 @@ categories:
   - tutorial
   - devops
   - raspberry
+  - home-assistant
 ---
 # Configurar Sonoff Dongle Plus en Home Assistant
 

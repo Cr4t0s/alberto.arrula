@@ -1,5 +1,5 @@
 title: "Mis reflexiones"
-baseurl: "/alberto.arrula"
+baseurl: "/blog"
 url: "https://cr4t0s.github.io"
 theme: jekyll-theme-cayman
 permalink: /:categories/:year/:month/:day/:title.html

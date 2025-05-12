@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mis reflexiones
+title: Alberto Arrula
 ---
 # Entradas
 
